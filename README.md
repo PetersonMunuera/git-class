@@ -11,5 +11,4 @@
 - git remote -v: visualizar os repositórios remotos configurados
 - git push: envia as alterações do repositório local para o remoto
 - git push -u: configura o upstream (referência da branch equivalente no repo remoto) da branch local
-
-- alteração realizada no GitHub
+- git pull: traz as alterações do repositório remoto para o repositório local
