@@ -7,3 +7,6 @@
 - git add: adiciona arquivos em "staging"
 - git commit -m: adicionar arquivos que estão em "staging" para um commit
 - git log: exibe todos os commits realizados na branch
+- git remote add: adiciona um repositório remoto
+- git remote -v: visualizar os repositórios remotos configurados
+- git push: envia as alterações do repositório local para o remoto
